@@ -7,8 +7,8 @@
 
 ## Current Model
 
-Type: LSTM
-Error: 0.4187
+- Type: LSTM
+- Error: 0.4187
 
 
 ## Challenges
