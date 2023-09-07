@@ -19,5 +19,10 @@
 - Creating a bigger dataset by merging poetry of other people
 - Tuning hyperparameters
 
+
+
+## Datasets
+- https://www.kaggle.com/datasets/akhorshidi/hafez?select=hafez.txt
+
 ## Licence 
 GPL v3
